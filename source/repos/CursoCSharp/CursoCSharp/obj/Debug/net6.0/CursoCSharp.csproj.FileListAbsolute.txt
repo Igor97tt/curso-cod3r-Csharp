@@ -1,0 +1,30 @@
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\igort\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\igort\OneDrive\DEV AREA\C#\curso-cod3r-c#\source\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
